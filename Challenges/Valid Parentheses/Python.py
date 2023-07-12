@@ -1,5 +1,5 @@
 #Time Complexity: O(n)
-#Runtime:
+#Runtime: 38ms
 
 class Solution(object):
     def isValid(self, s):
