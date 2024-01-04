@@ -1,5 +1,0 @@
-This project is not finished. Currently working on 'project 10' in the 'projects' folder.
-
-IMPORTANT: I have put my C++ code in the 'code' folder above. It may not run due to it not being assembled on Qt.
-
-This code does not change anything thing or will not operate correctly due to it being in the wrong directories. I have put the code there for someone who wants to analyze my code.
